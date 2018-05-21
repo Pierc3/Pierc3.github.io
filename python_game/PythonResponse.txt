@@ -1,0 +1,8 @@
+﻿Pierce Gregor
+Mr. Landfried
+Computer Science Period 3
+8 March 2018
+
+
+      The program, with our limited knowledge of the Python language, was relatively easy to create. Coming up with an idea was easy, too, as we both liked the idea of an app based around challenging the player with many trivia questions. However, as we finished developing the app, we realized that the app needed to run based off of a “while loop”, and ours did not. After some time, we came to the conclusion that we did not want to reformat our entire app, and started fresh. 
+       Dane and I quickly got to work on our new idea: a game based around guessing a number based on dice rolls. Dane was able to quickly get the framework of the app working, and I helped with the smaller, more detailed bits of code. Eventually, we got the app to work, making sure that the game was based around a “while loop”.
